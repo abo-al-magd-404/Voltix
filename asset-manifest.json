@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/voltix/static/css/main.a12a9a70.css",
+    "main.js": "/voltix/static/js/main.2fdcb264.js",
+    "static/js/453.acdd0149.chunk.js": "/voltix/static/js/453.acdd0149.chunk.js",
+    "static/media/fa-solid-900.woff2": "/voltix/static/media/fa-solid-900.0ae4e6254fc19607c79e.woff2",
+    "static/media/fa-brands-400.woff2": "/voltix/static/media/fa-brands-400.e7461d69dbbff1310a5c.woff2",
+    "static/media/fa-regular-400.woff2": "/voltix/static/media/fa-regular-400.1f38a564cd9eae27ebc3.woff2",
+    "static/media/fa-v4compatibility.woff2": "/voltix/static/media/fa-v4compatibility.661bd6b7245d5205d3e1.woff2",
+    "index.html": "/voltix/index.html",
+    "main.a12a9a70.css.map": "/voltix/static/css/main.a12a9a70.css.map",
+    "main.2fdcb264.js.map": "/voltix/static/js/main.2fdcb264.js.map",
+    "453.acdd0149.chunk.js.map": "/voltix/static/js/453.acdd0149.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a12a9a70.css",
+    "static/js/main.2fdcb264.js"
+  ]
+}
